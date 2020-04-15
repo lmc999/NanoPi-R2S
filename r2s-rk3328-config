@@ -4846,7 +4846,7 @@ CONFIG_PACKAGE_uhttpd-mod-ubus=y
 #
 # dial-in/up
 #
-# CONFIG_PACKAGE_rp-pppoe-common is not set
+# CONFIG_PACKAGE_rp-pppoe-common=y
 # CONFIG_PACKAGE_rp-pppoe-relay is not set
 CONFIG_PACKAGE_rp-pppoe-server=y
 
